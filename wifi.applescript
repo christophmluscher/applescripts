@@ -16,3 +16,4 @@ end toggleWifi
 on statusWifi(device, value)
 	display notification device & " is " & value with title "Wi-Fi"
 end statusWifi
+
